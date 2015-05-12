@@ -1,0 +1,8 @@
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\bin\Debug\CircleSmallOperationApp.exe.config
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\bin\Debug\CircleSmallOperationApp.exe
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\bin\Debug\CircleSmallOperationApp.pdb
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\obj\Debug\CircleSmallOperationApp.CircleOperationUI.resources
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\obj\Debug\CircleSmallOperationApp.Properties.Resources.resources
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\obj\Debug\CircleSmallOperationApp.csproj.GenerateResource.Cache
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\obj\Debug\CircleSmallOperationApp.exe
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\obj\Debug\CircleSmallOperationApp.pdb

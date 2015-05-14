@@ -6,3 +6,4 @@ D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleS
 D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\obj\Debug\CircleSmallOperationApp.csproj.GenerateResource.Cache
 D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\obj\Debug\CircleSmallOperationApp.exe
 D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\obj\Debug\CircleSmallOperationApp.pdb
+D:\BITM  FILE\BITM CLASS\BITM Class Text File & Videos\Class 12\11052015\CircleSmallOperationApp\CircleSmallOperationApp\obj\Debug\CircleSmallOperationApp.csprojResolveAssemblyReference.cache
